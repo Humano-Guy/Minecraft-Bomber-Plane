@@ -9,7 +9,7 @@ For Pasting ----
 This option might not work on later versions of minecraft or litematica. This will not work if any blocks are placed by hand.
 
 For Building ----
-Each piston facing a minecart needs a single activation before use. All you need to do is place a redstone block above them, and then remove it. You should see that the slime blocks move into place. Any activation after this point will drop TNT like it should when activated.
+Each piston facing a minecart needs a single activation before use. All you need to do is place a redstone block above them, and then quickly remove it. You should see that the slime blocks move into place, and that there is now a block gap between the piston and slime block. If you see that, then you have done it correctly. If you are missing a gap, then you need to try again until there is one. Be mindful though, any activation after this point will drop TNT like it should when activated.
 
 
 For Using ----
